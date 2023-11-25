@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "191110943671",
+    "project_id": "surveyasia-f63a2",
+    "storage_bucket": "surveyasia-f63a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191110943671:android:f2fdad25a84534ee764e32",
+        "android_client_info": {
+          "package_name": "com.example.survei_asia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191110943671-o0oi2cqsldm4c71c1jcrmncs642abg92.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.survei_asia",
+            "certificate_hash": "bedc3155c93a47781043c559da8393c51feb9d5c"
+          }
+        },
+        {
+          "client_id": "191110943671-si373s6ie40gbbn305os67e42shrqicd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdYY5iEtWwWdQ-7BeGiDw2pjroNHKmBqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191110943671-si373s6ie40gbbn305os67e42shrqicd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "191110943671-p861nttjhf737bai3j9aehd3d8qpac7l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.surveiAsia"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
